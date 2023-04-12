@@ -2,7 +2,19 @@
   "main": {
     "name": "Syaiful Iqbal",
     "description": "I am a Programmer",
+    "image": "profilepic.jpg",
     "github": "https://github.com/Ballsky26",
-    "project": "https://github.com/Ballsky26"
+    "project": "https://github.com/Ballsky26",
+    "bio": "This section my Bio",
+    "contactmessage": "Hello, here I am",
+    "email": "myemail@gmail.com",
+    "phone": "877-1234-5678",
+    "address": {
+      "street": "Jl Margonda Raya",
+      "city": "Depok",
+      "state": "West Java",
+      "zip": "16024"
+    },
+    "resumeDownload": "https://github.com/Ballsky26"
   }
 }
