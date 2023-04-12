@@ -15,7 +15,34 @@
       "state": "Central Java",
       "zip": "51119"
     },
-    "resumeDownload": "https://github.com/Ballsky26"
+    "resumeDownload": "https://github.com/Ballsky26",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://facebook.com/syaifuliqbal26",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/BaIIsky26",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/syaiful-iqbal/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/syaiful_iqbal26",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Ballsky26",
+        "className": "fa fa-github"
+      }
+    ]
   },
   "resume": {
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
