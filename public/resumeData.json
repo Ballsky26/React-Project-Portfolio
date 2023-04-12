@@ -16,5 +16,66 @@
       "zip": "51119"
     },
     "resumeDownload": "https://github.com/Ballsky26"
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "STMIK Widya Pratama",
+        "degree": "Bachelor degree of Computer Science",
+        "graduated": "November 2022",
+        "description": "I am Joining Computer competition"
+      },
+      {
+        "school": "MAN 1 Pekalongan City",
+        "degree": "Social",
+        "graduated": "May 2018",
+        "description": "I am Joining Computer competition"
+      }
+    ],
+    "work": [
+      {
+        "company": "Technopark Perikanan Kota Pekalongan",
+        "title": "Web Development",
+        "years": "April 2021 - Juni 2021",
+        "description": "Creating a website maintence"
+      },
+      {
+        "company": "RDST Esports",
+        "title": "Content Creator",
+        "years": "Januari 2023 - Juni 2023",
+        "description": "Creating a Content"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "75%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Laravel",
+        "level": "85%"
+      },
+      {
+        "name": "CodeIgniter",
+        "level": "80%"
+      },
+      {
+        "name": "Database MYSQL",
+        "level": "75%"
+      }
+    ]
   }
 }
